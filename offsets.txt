@@ -1,0 +1,9 @@
+ac_client.exe+18AC00 points to entity object
+
+offset +EC  health
+
+offset +11C  mag
+
+offset +140 ammo 
+
+ac_client.exe + 1C223 should be the take damage assembly fiunction addy
